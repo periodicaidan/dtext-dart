@@ -1,4 +1,4 @@
-name: dtext
+name: dtext-dart
 description: Parser for e621/e926's DText markup
 version: 0.0.1
 homepage:
