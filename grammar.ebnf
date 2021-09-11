@@ -1,0 +1,2 @@
+openingtag = "[", { anychar }, "]"
+closingtag = "[", "/", { anychar }, "]"
